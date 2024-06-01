@@ -4,7 +4,7 @@ from requests import get
 from bs4 import BeautifulSoup as bs
 
 
-st.markdown("<h1 style='text-align: center; color: black;'>GROUPE 2</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>GROUPE 2</h1>", unsafe_allow_html=True)
 
 st.markdown("""
 This app allows you to download scraped data on 'villas', 'terrains' and 'appartements' from coin afrique 
